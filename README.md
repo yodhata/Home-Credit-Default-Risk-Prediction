@@ -1,4 +1,4 @@
-# Home Credit Payment Difficulty Prediction (TARGET=1)
+# Home Credit Payment Difficulty Prediction
 
 Predict the probability of payment difficulties (TARGET=1) using applicant attributes and aggregated credit-history features. The project builds a customer-level dataset in PostgreSQL using CTE-based aggregations, then performs EDA, model training, evaluation (AUPRC for imbalanced data), and explainability using feature importance.
 
